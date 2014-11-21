@@ -101,7 +101,6 @@ textarea {
 
 body {
 	font-family: "Helvetica Neue", "Helvetica", "sans-serif";
-/*	font-size: 15px;*/
 }
 
 hr {
@@ -115,9 +114,7 @@ ul {
 }
 
 a {
-/*	text-decoration: none;*/
 	color: #0066cc;
-/*	border-bottom: 1px solid #0066cc;*/
 }
 
 header {
@@ -171,8 +168,6 @@ nav .btn {
 	color: #fff;
 	text-transform: uppercase;
 	padding: 10px 0px;
-/*	border-top: 1px solid #eee;*/
-/*	border-bottom: 1px solid #eee;*/
 	text-align: center;
 	letter-spacing: 0.03em;
 	font-family: ;
@@ -188,9 +183,8 @@ nav .btn {
 
 .title .btn {
 	display: block;
-	max-width: 425px;
+	max-width: 450px;
 	margin: 100px auto 0px auto;
-/*	font-size: 0.6em;*/
 	font-weight: 100;
 	text-align: center;
 	letter-spacing: 0.04em;
@@ -226,7 +220,7 @@ nav .btn {
 .logo {
 	opacity: 1;
 	display: block;
-	background: url("../img/logo_02.png") no-repeat;
+	background: url("../img/logo.png") no-repeat;
 	background-size: 241px 106px;
 	text-indent: -10000px;
 	height: 106px;
